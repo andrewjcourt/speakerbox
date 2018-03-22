@@ -101,7 +101,7 @@ def read_keys(event):
 # voice names
 voices = {}
 for voice in NSSpeechSynthesizer.availableVoices():
-	voices.update({str(voice[33:]):str(voice)})
+   voices.update({str(voice[33:]):str(voice)})
 voices_list = []
 for item in voices.keys():
    voices_list.append(item.lower())
