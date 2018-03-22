@@ -126,10 +126,6 @@ root.geometry('770x300+250+250')
 root.resizable(0,0)
 root.config(background=bg)
 
-#button & key master coordinates
-bcx = 515 
-bcy = 250
-
 #text-entry frame & logo
 screen_Frame=Frame(root, bg=fg)
 screen_Frame.place(x=10, y=10, width=750, height=200)
