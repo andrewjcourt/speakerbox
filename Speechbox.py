@@ -142,5 +142,3 @@ screen_Live.bind('<Key>', read_keys)
 voice_menu()
 root.mainloop()
 
-#nssp.availableVoices():
-
