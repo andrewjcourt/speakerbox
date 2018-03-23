@@ -1,5 +1,5 @@
 # speakerbox
-Basic voice synthesis using NSSpeechSynthesiser in a Tkinter GUI. Python 2.7 and Mac OSX only.
+A basic demonstration of voice synthesis using NSSpeechSynthesiser in a Tkinter GUI. Python 2.7 and Mac OSX only.
 
 Combines a text-entry tool designed in Tkinter with the voices of NSSS. 
 
